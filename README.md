@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cyberclaw.jpg" alt="CyberClaw Logo" width="50%" style="border-radius: 50%;">
+  <img src="./photo_2024-05-22_02-16-27.jpg" alt="CyberClaw Logo" width="50%" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">⚜️ CLAWESCROWBOT ⚜️</h1>
